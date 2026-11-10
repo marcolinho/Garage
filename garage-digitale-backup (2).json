@@ -1,0 +1,46 @@
+{
+  "vehicles": [
+    {
+      "id": "kove",
+      "type": "Moto",
+      "make": "Kove",
+      "model": "800X GT",
+      "year": "2026",
+      "plate": "FY32550",
+      "km": "1000",
+      "notes": "",
+      "maintenance": [],
+      "expenses": [],
+      "deadlines": [],
+      "vin": "",
+      "insurer": ""
+    },
+    {
+      "id": "golf",
+      "type": "Auto",
+      "make": "Volkswagen",
+      "model": "Golf 8",
+      "year": "2022",
+      "plate": "GH492YB",
+      "km": "66500",
+      "notes": "",
+      "maintenance": [],
+      "expenses": [
+        {
+          "title": "Tagliando",
+          "category": "Manutenzione",
+          "date": "2026-10-26",
+          "amount": "280",
+          "km": "66300",
+          "notes": "",
+          "id": "41a2ec79-ac4a-48f8-99e6-c60591b189d8"
+        }
+      ],
+      "deadlines": [],
+      "vin": "",
+      "insurer": "Allianz Direct"
+    }
+  ],
+  "theme": "dark",
+  "lastBackup": "2026-11-10T10:20:28.190Z"
+}
